@@ -1,11 +1,34 @@
-# Drum 🥁 Kit
+# Angela Yu Web Development - Advanced JS and DOM Manipulation
+# HTML/CSS/JS & DOM - Drum Kit
 
-> https://yogain123.github.io/Drum-Kit/  <br />
-> https://drum-kit-1ec9a.firebaseapp.com/
+- [About this project](#about)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Technical Information](#technical_information)
 
-<img width="1270" alt="Screenshot 2020-01-08 at 1 56 44 PM" src="https://user-images.githubusercontent.com/14003377/71962094-bd9fde00-321e-11ea-9c39-4fb45e1175a2.png">
+<a name="about"></a>
+## About
+In this code along I updated the provided starter files using
+HTML, CSS, and Javascript
 
-## Run Server
-> python -m SimpleHTTPServer 8099
+<a name="features"></a>
+## Features
+- [x] HTML
+- [x] CSS
+- [x] Javascript
 
-Author: Yogendra
+<a name="requirements"></a>
+## Requirements
+- HTML
+- CSS
+- Javascript
+
+<a name="technical_information"></a>
+## Technical Information
+
+To run the site on your local machine
+
+1. Download or clone the repository onto your machine.
+2. Extract the .zip file.
+3. Open .html file in your browser.
+5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/js-Drum-Kit-master/ "Site Link") to view.
